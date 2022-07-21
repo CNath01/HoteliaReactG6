@@ -36,10 +36,12 @@ Commands required for the repository:
  
 
 # Contributors 
-<p align="center"> <img width="270" height="100" src="https://github.com/CNath01/HoteliaReactG6/blob/main/public/natha.png?raw=true/200/300?style=centerme">  <img width="270" height="100" src="https://github.com/CNath01/HoteliaReactG6/blob/main/public/cam.png?raw=true"> </p>
+<p align="center"> <img width="280" height="100" src="https://github.com/CNath01/HoteliaReactG6/blob/main/public/natha.png?raw=true/200/300?style=centerme">  <img width="280" height="100" src="https://github.com/CNath01/HoteliaReactG6/blob/main/public/cam.png?raw=true"> </p>
 
 -------
-<p align="center"> `Nathalia Sarmiento`: https://github.com/Nathillin    
+<p align="center">
+`npm install`: installs dependencies. 
+`Nathalia Sarmiento`: https://github.com/Nathillin    
 `Camila Arciniegas`: https://github.com/CNath01 </p>
 
 -------
