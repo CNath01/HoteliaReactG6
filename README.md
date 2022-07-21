@@ -22,7 +22,7 @@ Commands required for the repository:
 `npm start`: installs and manages package versions and js libraries.
 
 
-##Test 
+## Test  
 
 `npm run build `: executes the construction field.
 
@@ -39,8 +39,8 @@ Commands required for the repository:
 <p align="center"> <img width="270" height="100" src="https://github.com/CNath01/HoteliaReactG6/blob/main/public/natha.png?raw=true/200/300?style=centerme">  <img width="270" height="100" src="https://github.com/CNath01/HoteliaReactG6/blob/main/public/cam.png?raw=true"> </p>
 
 -------
-<p align="center"> `<Nathalia Sarmiento>` : <https://github.com/Nathillin>     
-`<Camila Arciniegas>` : <https://github.com/CNath01> </p>
+<p align="center"> `Nathalia Sarmiento`: https://github.com/Nathillin    
+`Camila Arciniegas`: https://github.com/CNath01 </p>
 
 -------
 
