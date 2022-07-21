@@ -40,9 +40,8 @@ Commands required for the repository:
 
 -------
 <p align="center">
-`npm install`: installs dependencies. 
-`Nathalia Sarmiento`: https://github.com/Nathillin    
-`Camila Arciniegas`: https://github.com/CNath01 </p>
+Nathalia Sarmiento: https://github.com/Nathillin  |  
+Camila Arciniegas: https://github.com/CNath01 </p>
 
 -------
 
