@@ -1,9 +1,6 @@
 # Hotelia G6   
 
 
-[TOCM]
-
-
 
 ![](https://github.com/CNath01/HoteliaReactG6/blob/main/public/mockupp.png?raw=true)
 
